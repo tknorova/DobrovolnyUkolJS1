@@ -1,7 +1,7 @@
 let uzivatele = [
     { jmeno: "Jan Nespal", email: "jan.nespal@example.com", isActive: true },
     { jmeno: "Karolina Dolezalova", email: "karolina.dolezalova@gmail.com", isActive: true },
-    { jmeno: "Tom Usnul", email: "tom.usnul@example.com", isActive: true }
+    { jmeno: "Tom Vstaval", email: "tom.usnul@example.com", isActive: true }
 ];
 
 function turnOffActive(uzivatel) {
